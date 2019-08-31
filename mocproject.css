@@ -1,5 +1,6 @@
 body{
 	background: #f5d9d5;
+	overflow-x:hidden;
 	font-family: "Nunito", sans-serif;
 }
 #mainnav{
